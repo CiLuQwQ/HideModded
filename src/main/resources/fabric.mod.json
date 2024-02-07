@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "hidemodded",
+  "version": "${version}",
+  "name": "HideModded",
+  "description": "",
+  "authors": [
+    "CiLuQwQ"
+  ],
+  "contact": {
+    "repo": "https://github.com/CiLuQwQ/HideModded"
+  },
+  "license": "GPL-3.0",
+  "icon": "assets/hidemodded/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+
+    ]
+  },
+  "mixins": [
+    "hidemodded.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": "*",
+    "fabric": "*",
+    "minecraft": "*"
+  }
+}
