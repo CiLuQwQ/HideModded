@@ -3,7 +3,7 @@
   "id": "hidemodded",
   "version": "${version}",
   "name": "HideModded",
-  "description": "",
+  "description": "隐藏标题栏的*以及'已修改'",
   "authors": [
     "CiLuQwQ"
   ],
@@ -24,6 +24,6 @@
   "depends": {
     "fabricloader": "*",
     "fabric": "*",
-    "minecraft": "*"
+    "minecraft": ">=1.18"
   }
 }
