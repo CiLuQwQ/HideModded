@@ -15,3 +15,4 @@ This mod can hide the "*" on the title bar of the game and the "(Modded)" after 
 ### 下载
 [Modrinth](https://modrinth.com/mod/hidemodded)
 [MC百科](https://www.mcmod.cn/class/13657.html)
+[CurseForge](https://www.curseforge.com/minecraft/mc-mods/hideasterisk)
