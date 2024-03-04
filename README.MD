@@ -1,4 +1,4 @@
-[nEOForge仓库](https://github.com/CiLuQwQ/HideModdedNeoForge/)
+[NeoForge仓库](https://github.com/CiLuQwQ/HideModdedNeoForge/)
 
 
 ## HideModded/隐藏“已修改”
