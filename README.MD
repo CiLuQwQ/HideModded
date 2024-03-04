@@ -1,3 +1,6 @@
+[nEOForge仓库](https://github.com/CiLuQwQ/HideModdedNeoForge/)
+
+
 ## HideModded/隐藏“已修改”
 
 After the version 1.15.2, if the game is modified, "(Modded)" will appear in the main menu game version number and "*" will appear in the game title bar.
